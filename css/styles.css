@@ -83,6 +83,7 @@ nav a, .auth a {
   background-color: #000;
   padding: 20px;
   font-size: 14px;
+text-align: justify;
 }
 
 .box-label {
